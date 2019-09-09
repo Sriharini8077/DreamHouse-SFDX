@@ -32,4 +32,5 @@
         
     </lightning:card>
 
+    <div>test</div>
 </aura:component>
